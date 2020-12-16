@@ -129,6 +129,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-training-day-four"
+    }
+  },
+  "defaultProject": "angular-training-day-four",
+  "cli": {
+    "analytics": "1ad63d9d-716a-471f-ae0b-25c88ef13754"
+  }
 }
